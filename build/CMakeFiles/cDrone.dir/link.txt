@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/cDrone.dir/main.c.o -o cDrone  -Wl,-rpath,/home/ciara/CLionProjects/cDrone/build libSDL3.so.0.3.3 

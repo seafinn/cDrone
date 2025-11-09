@@ -1,0 +1,8 @@
+/home/ciara/CLionProjects/cDrone/build/CMakeFiles/cDrone.dir
+/home/ciara/CLionProjects/cDrone/build/CMakeFiles/edit_cache.dir
+/home/ciara/CLionProjects/cDrone/build/CMakeFiles/rebuild_cache.dir
+/home/ciara/CLionProjects/cDrone/build/vendored/SDL/CMakeFiles/SDL3-shared.dir
+/home/ciara/CLionProjects/cDrone/build/vendored/SDL/CMakeFiles/SDL3_test.dir
+/home/ciara/CLionProjects/cDrone/build/vendored/SDL/CMakeFiles/SDL_uclibc.dir
+/home/ciara/CLionProjects/cDrone/build/vendored/SDL/CMakeFiles/edit_cache.dir
+/home/ciara/CLionProjects/cDrone/build/vendored/SDL/CMakeFiles/rebuild_cache.dir
