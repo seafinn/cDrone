@@ -1,7 +1,7 @@
 //
 // Created by ciara on 11/11/2025.
 //
-
+#include <stdbool.h>
 #ifndef CDRONE_DRONE_H
 #define CDRONE_DRONE_H
 
